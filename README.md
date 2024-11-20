@@ -27,7 +27,7 @@ pip install numpy
 pip install pandas
 pip install matplotlib
 pip install tqdm
-pip install tenserflow
+pip install tensorflow
 pip install keras
 pip install pydot
 pip install scipy
